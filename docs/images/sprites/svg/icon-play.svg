@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Ellipse_4_copy_2" data-name="Ellipse 4 copy 2" class="cls-1" d="M1370,535a27,27,0,1,1-27,27A27,27,0,0,1,1370,535Zm-6.38,34.972V553.05a1.054,1.054,0,0,1,1.62-.912c0.64,0.368,13.51,7.807,14.61,8.444a1.055,1.055,0,0,1,0,1.833c-0.8.466-13.71,7.943-14.64,8.463A1.051,1.051,0,0,1,1363.62,569.971Z" transform="translate(-1343 -535)"/>
+</svg>
